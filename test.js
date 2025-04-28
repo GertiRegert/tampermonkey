@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Blikudo XPath Batch Value Changer with Alert
 // @namespace    http://lemurbrowser.com/
-// @version      1.1
+// @version      1.2
 // @description  Change multiple fields by XPath and show an alert when done
 // @match        https://blikudo.al/*
 // @grant        none
