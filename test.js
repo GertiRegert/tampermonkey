@@ -33,6 +33,6 @@
     });
 
     // Show alert after all fields are filled
-    alert('✅ Scripti u exe me sukses!');
+    alert('✅ Scripti u exe me sukses asdad!');
 
 })();
